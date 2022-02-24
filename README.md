@@ -4,4 +4,4 @@ Senior project in which a topic had to be chosen.  This project was chosen to be
 
 Links to the github as well as the PyGame website below:\
 https://github.com/pygame/pygame \
-https://www.pygame.org/ \
+https://www.pygame.org/ 
